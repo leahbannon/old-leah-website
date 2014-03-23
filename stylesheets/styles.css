@@ -2,8 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 
-  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  font:14px/1.5 Georgia, Times, "Times New Roman", serif;
   color:#777;
   font-weight:300;
 }
@@ -59,7 +58,7 @@ blockquote {
 }
 
 code, pre {
-  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
   color:#333;
   font-size:12px;
 }

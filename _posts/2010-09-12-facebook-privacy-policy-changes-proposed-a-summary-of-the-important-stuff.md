@@ -6,6 +6,7 @@ permalink: /2010/09/facebook-privacy-policy-changes-proposed-a-summary-of-the-im
 categories:
   - Facebook
 ---
+
 On Friday, Facebook posted a proposed new Privacy Policy for comments &#8211; Facebook now makes most changes available for comment before implementing them to mitigate anger and blowback once changes are enacted. There are 2 big changes you should be aware of – don’t panic though: you will be able to opt out of them and they don&#8217;t exist yet; this is just Facebook&#8217;s way of reserving the right to implement them later.
 
 **1. Sharing Your Info With 3<sup>rd</sup> Parties**: Facebook will share some of your information with other “pre-approved” partner sites that you browse (while still logged in to Facebook) to create a more “personalized” experience. They haven’t said who these partner sites will be, but that the information shared will only be content you label as sharable with “Everyone” and that you will be able to opt out.

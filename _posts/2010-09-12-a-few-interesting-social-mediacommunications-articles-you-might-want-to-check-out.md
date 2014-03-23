@@ -11,8 +11,8 @@ categories:
 ---
 **Cell Phone Polling**  
 I&#8217;ve been wondering/badgering my teachers about the effects of cellphone only or cellphone mostly households on poll accuracy for awhile. Basically, polling cell phones costs a lot more than polling landlines, so many pollsters are skimping on the cellphones. This is understandable, as good polling is already very expensive, but FiveThrityEight examines new data from the CDC and Pew that shows we can now be pretty certain that omitting cell phones will introduce statistically significant error. <a href="http://www.fivethirtyeight.com/2010/05/study-excluding-cellphones-introduces.html" target="_blank">Read here.</a>  
-**  
-BP and Digital PR**  
+
+**BP and Digital PR**  
 BrandBuilder has an insightful and amusing post about BP&#8217;s PR response to the oil spill. Apparently, they&#8217;ve done a lovely job with their web 1.0 response, but almost completely ignored social media. I find the juxtaposition of the fake BP Twitter site (which looks real) and the real BP Twitter site (which looks fake) especially clever. Also, the fake BP tweets are hilarious: &#8220;Please do NOT take or clean any oil you find on the beach. That is property of British Petroleum and we WILL sue you,&#8221; and &#8220;Really worried about the effect this disaster will have on bikini season. The sun is still shining ladies, get out there!&#8221; <a href="http://thebrandbuilder.wordpress.com/2010/05/24/living-in-the-past-working-in-the-past-how-not-to-get-brandjacked-like-bp-global-pr/" target="_blank">Read here.</a>
 
 **Good Old Facebook**  

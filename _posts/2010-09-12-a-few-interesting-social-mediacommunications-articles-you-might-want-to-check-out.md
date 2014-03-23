@@ -9,6 +9,7 @@ categories:
   - politics
   - PR
 ---
+
 **Cell Phone Polling**  
 I&#8217;ve been wondering/badgering my teachers about the effects of cellphone only or cellphone mostly households on poll accuracy for awhile. Basically, polling cell phones costs a lot more than polling landlines, so many pollsters are skimping on the cellphones. This is understandable, as good polling is already very expensive, but FiveThrityEight examines new data from the CDC and Pew that shows we can now be pretty certain that omitting cell phones will introduce statistically significant error. <a href="http://www.fivethirtyeight.com/2010/05/study-excluding-cellphones-introduces.html" target="_blank">Read here.</a>  
 

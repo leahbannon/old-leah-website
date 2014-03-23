@@ -1,11 +1,46 @@
 title: Leah Bannon
-tagline: open gov consultant and digital strategist
+tagline: "open gov consultant and digital strategist"
 
-url: http://leahbannon.com/blog
-name: 'Leah Bannon'
-description: >
-  Hi. I’m an open gov consultant and digital strategist.
+#Jekyll config file
 
+#title of site
+name: Leah Bannon
+
+#description of site
+description: "Hi. I’m an open gov consultant and digital strategist."
+
+#URL of site, include http://, do not include a trailing slash
+url: "http://leah.io"
+
+
+#description of site
+description: "GitHubber, Gov 2.0 Evangelist, Aspiring Attorney"  
+  
+  #permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:month/:day/:title/
+
+#files to exclude, array
+exclude:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE
+  - readme.md
+  - bundle
+  - src
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - package.json
+  - script
+  - test
+  - less
+  - scss
+  - media
+  - feature-detects
+  - composer.json
+  - component.json
+  - grunt.js
 
 ##local dev stuff
 server: true

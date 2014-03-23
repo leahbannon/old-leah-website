@@ -2,7 +2,8 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, Georgia, serif;
+  font:14px/1.5 
+  font-family: Georgia, Times, "Times New Roman", serif;
   color:#777;
   font-weight:300;
 }
@@ -58,7 +59,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: Georgia, Times, "Times New Roman", serif;
   color:#333;
   font-size:12px;
 }

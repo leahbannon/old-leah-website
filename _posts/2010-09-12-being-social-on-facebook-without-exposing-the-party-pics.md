@@ -8,6 +8,7 @@ categories:
   - security/privacy
   - social media
 ---
+
 I want to broaden my circle of Facebook friends and maintain connections with colleagues, grad school classmates, family, etc. However, I also fear random photo tagging from parties and would like to share beach vacation pictures with close friends. I doubt I&#8217;m alone here&#8230;
 
 There are plenty of posts that explain [how to create friend lists][1], but what about the best way to approach these lists and make them work for you? This is how I’ve decided to manage this for now; I’d love to hear your ideas and approaches, too.****

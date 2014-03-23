@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family:"Times New Roman",Georgia,Serif;
   color:#777;
   font-weight:300;
 }
@@ -59,7 +59,7 @@ blockquote {
 }
 
 code, pre {
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family:"Times New Roman",Georgia,Serif;
   color:#333;
   font-size:12px;
 }

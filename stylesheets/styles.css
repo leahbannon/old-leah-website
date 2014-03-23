@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 
-  font-family:"Times New Roman",Georgia,Serif;
+  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
   color:#777;
   font-weight:300;
 }
@@ -59,7 +59,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:"Times New Roman",Georgia,Serif;
+  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
   color:#333;
   font-size:12px;
 }

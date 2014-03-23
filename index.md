@@ -5,3 +5,18 @@ layout: main
 <img src="http://leah.io/images/books.jpg"/>
 
 ## Blog
+
+<ul class="posts">
+{% for page in site.posts %}
+  <li class="post">
+    <div class="row">
+        <div class="col-sm-9">
+            <a href="{{ site.url}}{{ page.url }}">{{ page.title }}</a>
+        </div>
+        <div class="col-sm-3 date">
+            {{ page.date | date: '%B %d, %Y' }}
+        </div>
+    </div>
+  </li>
+{% endfor %}
+</ul><!-- posts -->

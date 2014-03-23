@@ -1,6 +1,13 @@
 title: Leah Bannon
-tagline: open gov consutlant and digital strategist
+tagline: open gov consultant and digital strategist
+
+url: http://leahbannon.com/blog
+name: 'Leah Bannon'
+description: >
+  Hi. I’m an open gov consultant and digital strategist.
+
 
 ##local dev stuff
 server: true
 auto: true
+

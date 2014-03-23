@@ -183,6 +183,12 @@ footer {
   bottom:50px;
 }
 
+ul.posts {
+  list-style: none;
+  padding-left: 0;
+  
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {

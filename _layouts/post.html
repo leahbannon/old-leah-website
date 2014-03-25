@@ -1,18 +1,12 @@
 {% include header.html %}
     
     <!-- MAIN CONTENT -->
-<article id="post{{ page.id | replace:"/","-" }}" class="post post{{ page.id | replace:"/","-" }}">
-
-  <h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
-
-  <div class="post-meta">
-    <span class="entry-date">Posted {{ page.date | date: '%B %d, %Y' }}</span> |
-  </div>
-
-    <div class="entrybody">
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
       
       {{ content }}
       
+      </section>
     </div>
     
 {% include footer.html %}

@@ -1,13 +1,7 @@
 ---
 title: 'A few interesting social media/communications articles you might want to check out&#8230;'
-author: leah
 layout: post
 permalink: /2010/09/a-few-interesting-social-mediacommunications-articles-you-might-want-to-check-out/
-categories:
-  - Facebook
-  - mobile
-  - politics
-  - PR
 ---
 
 **Cell Phone Polling**  

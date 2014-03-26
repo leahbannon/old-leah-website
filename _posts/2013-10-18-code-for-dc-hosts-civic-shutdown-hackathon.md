@@ -24,6 +24,9 @@ More!
 *   **Fedscoop:** [With no work to do, furloughed feds flock to hackathon][8]
 *   **Programmable Web:** [Shutdown? What Shutdown? Hackathon For Furloughed Feds Today In DC][9]
 
+
+<iframe src="https://vine.co/v/hwWuj9ixU2g/embed/postcard" height="480" width="480" frameborder="0"></iframe><script charset="utf-8" type="text/javascript" src="//platform.vine.co/static/scripts/embed.js" async=""></script><iframe src="https://vine.co/v/hwW7ZTiavYW/embed/postcard" height="480" width="480" frameborder="0"></iframe><script charset="utf-8" type="text/javascript" src="//platform.vine.co/static/scripts/embed.js" async=""></script>
+
  [1]: http://codefordc.org
  [2]: http://1776dc.com
  [3]: http://ancbrigade.com

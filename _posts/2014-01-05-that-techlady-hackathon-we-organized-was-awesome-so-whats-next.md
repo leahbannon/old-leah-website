@@ -14,6 +14,8 @@ TLDR: It went better than we could have hoped, over 100 women attended, and you 
 
 First, almost half of the women checked a box while registering to indicate that they wanted to volunteer to help. (!!!) In organizing this, I had incredible help and advice from almost everyone I asked, especially a lot of awesome, busy women. So awesome.
 
+![](/images/sunlightclass.jpg)
+
 I kept expecting to hear about problems or complaints about the overfull classes, but nobody complained. A few days before the hackathon, we lost several of our instructors. The day of the event, the hackpad that we used for people to sign up for the over-full courses crashed. As problems arose, we just rolled with them. Women jumped in to help or just made it work.
 
 I kept hearing again and again about how much more comfortable women felt in the classes participating and asking questions. I thought and hoped that might happen, so it meant a lot to me that it worked.

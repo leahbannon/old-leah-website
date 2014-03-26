@@ -10,7 +10,7 @@ On December 7, I organized a hackathon for women with significant help from [Kat
 
 TLDR: It went better than we could have hoped, over 100 women attended, and you can learn more about it in [the summary wrap-up blog post on the new Code for DC blog][10], the [Storify][11] coverage of the best social media from the event, or the organization website at [techladyhackathon.org][12]. There will be more, so sign up for [my monthly newsletter][13].
 
-### Instead of summarizing again, I&#8217;d like to add a few interesting thoughts:
+### Instead of summarizing again, I&#8217;d like to add a few interesting thoughts:<iframe src="//instagram.com/p/hoZWp7QWFC/embed/" width="350" height="408" frameborder="0" scrolling="no" align=right allowtransparency="true"></iframe>
 
   
 First, almost half of the women checked a box while registering to indicate that they wanted to volunteer to help. (!!!) In organizing this, I had incredible help and advice from almost everyone I asked, especially a lot of awesome, busy women. So awesome.
@@ -31,6 +31,8 @@ That last point is incredibly important to me. My first inspiration to organize 
 ### What&#8217;s next??
 
 I&#8217;m tentatively planning the next one for June. Want to get the updates? Sign up for [my monthly newsletter][13] about awesome tech training, women in tech opportunities, and DC tech events. And go to [the next Code for DC meetup][15]!! It&#8217;s one of the best ways to learn and meet more awesome tech people.
+
+<iframe src="https://vine.co/v/hQaAZYFJKmq/embed/simple" height="480" width="480" frameborder="0"></iframe><script charset="utf-8" type="text/javascript" src="//platform.vine.co/static/scripts/embed.js" async=""></script>
 
  [1]: http://twitter.com/diplokat
  [2]: http://twitter.com/higgjen

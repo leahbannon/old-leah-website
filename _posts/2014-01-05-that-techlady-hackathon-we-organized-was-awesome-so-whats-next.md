@@ -10,9 +10,10 @@ On December 7, I organized a hackathon for women with significant help from [Kat
 
 TLDR: It went better than we could have hoped, over 100 women attended, and you can learn more about it in [the summary wrap-up blog post on the new Code for DC blog][10], the [Storify][11] coverage of the best social media from the event, or the organization website at [techladyhackathon.org][12]. There will be more, so sign up for [my monthly newsletter][13].
 
-### Instead of summarizing again, I&#8217;d like to add a few interesting thoughts:<iframe src="//instagram.com/p/hoZWp7QWFC/embed/" width="350" height="408" frameborder="0" scrolling="no" align=right allowtransparency="true"></iframe>
+### Instead of summarizing again, I&#8217;d like to add a few interesting thoughts:
 
-  
+<iframe src="//instagram.com/p/hoZWp7QWFC/embed/" width="350" height="408" frameborder="0" scrolling="no" align=right allowtransparency="true"></iframe>
+
 First, almost half of the women checked a box while registering to indicate that they wanted to volunteer to help. (!!!) In organizing this, I had incredible help and advice from almost everyone I asked, especially a lot of awesome, busy women. So awesome.
 
 I kept expecting to hear about problems or complaints about the overfull classes, but nobody complained. A few days before the hackathon, we lost several of our instructors. The day of the event, the hackpad that we used for people to sign up for the over-full courses crashed. As problems arose, we just rolled with them. Women jumped in to help or just made it work.

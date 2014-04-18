@@ -6,6 +6,9 @@ permalink: /2014/01/that-techlady-hackathon-we-organized-was-awesome-so-whats-ne
 categories:
   - civic hacking
 ---
+
+*Update! The next TechLady Hackathon + Training Day will be on July 26, 2014. More details coming soon! [Sign up for the newsletter.](http://leah.io/newsletter)*
+
 On December 7, I organized a hackathon for women with significant help from [Kat Townsend][1], [Jen Higgins][2], [Shannon Turner][3], [Sarah Rigdon][4], [Rebecca Williams][5], [Shauna Dillavou][6], [Ousmane Mariko][7] (who designed our logo), and Code for DC brigade captains [Matt Bailey][8] and [Justin Grimes][9].
 
 TLDR: It went better than we could have hoped, over 100 women attended, and you can learn more about it in [the summary wrap-up blog post on the new Code for DC blog][10], the [Storify][11] coverage of the best social media from the event, or the organization website at [techladyhackathon.org][12]. There will be more, so sign up for [my monthly newsletter][13].

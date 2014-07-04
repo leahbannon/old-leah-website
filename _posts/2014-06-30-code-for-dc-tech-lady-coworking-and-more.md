@@ -7,7 +7,7 @@ categories:
   - civic hacking
 ---
 
-_This appeared first as the Tech Lady Hackathon Newsletter. Here's the link to [sign up for these this newsletter](/newsletter). Or, you can [view the newsletter permalink](http://eepurl.com/X45xf)._
+_This appeared first as the Tech Lady Hackathon Newsletter. Here's the link to [sign up for this newsletter](/newsletter). Or, you can [view the newsletter permalink](http://eepurl.com/X45xf)._
 
 ### Hi there.
 

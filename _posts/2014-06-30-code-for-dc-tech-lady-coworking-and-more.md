@@ -2,7 +2,7 @@
 title: 'Code for DC Tech Lady Coworking and More'
 author: leah
 layout: post
-permalink: /2014/01/that-techlady-hackathon-we-organized-was-awesome-so-whats-next/
+permalink: /2014/01/code-for-dc-tech-lady-coworking-and-more
 categories:
   - civic hacking
 ---

@@ -13,8 +13,8 @@ description: "Hi. I’m an open gov consultant and digital strategist."
 url: "http://leah.io"
 
 #description of site
-description: "GitHubber, Gov 2.0 Evangelist, Aspiring Attorney"  
-  
+description: "GitHubber, Gov 2.0 Evangelist, Aspiring Attorney"
+
   #permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:day/:title/
 
@@ -40,7 +40,7 @@ exclude:
   - composer.json
   - component.json
   - grunt.js
-  
+
 #google analytics username
 ga_username: 'UA-47016218-1'
 
@@ -49,7 +49,7 @@ server: true
 auto: true
 
 #build config
-pygments: true
+highlighter: true
 markdown: kramdown
 timezone: America/New_York
 encoding: UTF-8

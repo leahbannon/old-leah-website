@@ -4,7 +4,7 @@ layout: main
 
 ## About Me
 
-I am the open gov and web strategy lead for a small federal government agency as a Booz Allen consultant.
+I am a product lead at [18F](http://18f.gsa.gov), a new digital services startup within the federal government.
 
 I spend a lot of my free time as one of three co-captains of [Code for DC](http://codefordc.org), especially organizing the [TechLady Hackathon + Training Days](http://techladyhackathon.org).
 

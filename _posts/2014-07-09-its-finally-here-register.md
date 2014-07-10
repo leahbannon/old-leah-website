@@ -37,4 +37,4 @@ Are you going to&nbsp;[YXYY](http://www.yesandyesyes.com/#say-yes)? Me too! 1. L
 
 Helen Tran's short piece in Medium about working in tech and ambition, [This Is Water](https://medium.com/@tranhelen/this-is-water-2ba9dbbe7e28), is so well written it verged on poetry. READ IT. I attended&nbsp;the first [White House LGBTQ Innovation Summit](https://twitter.com/search?q=%23whitehouselgbt&src=typd) on Monday and it was inspiring. Thanks, Leanne and [Queer Women Who Tech](http://lesbianswhotech.org/). Interested in doing something awesome in civic tech? [Go apply to be a Code for America fellow.](http://codeforamerica.org/geeks/fellowship-apply/)
 
-Here's the link to [sign up for&nbsp;this newsletter](http://techladyhackathon.org/newsletter.html). Or, you can [forward this email to a friend](*|FORWARD|*). Send me your tech lady stuff for the next one!&nbsp;Reply to this email or tweet at me [@leahbannon](http://twitter.com/leahbannon).
+Send me your tech lady stuff for the next one! Tweet at me [@leahbannon](http://twitter.com/leahbannon).

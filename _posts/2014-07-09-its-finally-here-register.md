@@ -1,5 +1,5 @@
 ---
-title: 'It's Finally Here! Register for the July 26 Tech Lady Hackathon + More'
+title: 'It is Finally Here! Register for the July 26 Tech Lady Hackathon + More'
 author: leah
 layout: post
 permalink: /2014/07/09/its-finally-here-register

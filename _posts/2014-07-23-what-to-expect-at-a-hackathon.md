@@ -8,7 +8,7 @@ categories:
   - code for dc
 ---
 
-I hear that attending a hackathon can be intimidating. Don't be intimidated. At least not by the Tech Lady Hackathon or Code for DC hacknights. I can't speak for some of those hackathon/competitions out in Silicon Valley, but at the civic hackathons that I have attended/organized, your skills are welcome.
+I hear that attending a hackathon can be intimidating. Don't be intimidated. At least not by the Tech Lady Hackathon or Code for DC hacknights. I attend and organize civic hackathons here in DC, which can differ significantly from big competition-style hackathons, but this is what you should expect from most civic hackathons ("civic" here loosely means that we're working on projects to improve government services, provide services to the public that we think should exist and don't, or just working with government data).
 
 ### Should I go to a hackathon if I'm not a hacker?
 

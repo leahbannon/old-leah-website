@@ -38,4 +38,4 @@ If you join a project and find that it's not a good fit for your skills or inter
 
 Questions? Comments? I'm happy to answer questions at [@leahbannon](http://twitter.com/leahbannon).
 
-Oh, and one more thing: please keep in mind that the hackathon organizers might be really busy and stressed planning a big event, and **their email inboxes are already out of control**. I say this with love: please don't email me to tell me that something came up and you can't attend (unless I'm depending on you for something) or to ask a question that can be found on the event page (location, time, etc.). Ideally, tweet at me. Tweets are easier to answer and have the added benefit that they might be answered by another follower before I can get to it. <3
+Oh, and one more thing: If you email any of the organizers at this stage in the game, you may not get an answer. Just about all your questions can be answered on the event page (location, time, etc.). If you absolutely can't find satisfaction there, a tweet is much better than email! <3 

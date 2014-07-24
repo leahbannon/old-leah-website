@@ -8,11 +8,12 @@ categories:
   - code for dc
 ---
 
-I hear that attending a hackathon can be intimidating. Don't be intimidated. At least not by the [Tech Lady Hackathon](http://techladyhackathon.org) or [Code for DC](http://codefordc.org) hacknights. I attend and organize civic hackathons here in DC, which can differ significantly from big competition-style hackathons, but this is what you should expect from most civic hackathons. ("civic" means that we're working on projects to improve government services, provide services to the public that we think should exist and don't, or analyzing/working with government data).
+I hear that attending a hackathon can be intimidating. Don't be intimidated. At least not by the [Tech Lady Hackathon](http://techladyhackathon.org) or [Code for DC](http://codefordc.org) hacknights. I attend and organize civic hackathons here in DC, which can differ significantly from big competition-style hackathons, but this is what you should expect from most civic hackathons. 
 
 ### Should I go to a hackathon if I'm not a hacker?
 
-When we say "hacking," we mean to creatively build something, not attack someone's network. Read more in Code for America's blog post: [What is a civic hacker?](http://www.codeforamerica.org/blog/2013/05/06/what-is-a-civic-hacker/)
+When we say "hacking," we mean to creatively build something, not attack someone's network. Read more in Code for America's blog post: [What is a civic hacker?](http://www.codeforamerica.org/blog/2013/05/06/what-is-a-civic-hacker/) At civic hackathons, we're usually working on projects to improve government services, provide services to the public that we think should exist and don't, or analyzing/working with government data.
+
 
 I often tell folks that we are building a website or app just like most organizations, so we need a lot of different people's skills, in addition to coders and engineers. We need communications folks to edit and improve the messaging or promote the project, UX experts and people with a keen eye to test the site (how easy is it to use? where do you get confused?), designers, digital strategists, social media experts, subject matter experts, data analysts (anything from statistical analysis to data entry, spreadsheet organizing, etc.), and more.
 

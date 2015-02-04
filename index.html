@@ -2,14 +2,14 @@
 layout: main
 ---
 
-<img src="http://leah.io/images/books.jpg"/>
+<img src="http://leah.io/images/books.jpg" width=200px>
 <br/>
 <h1><a id="blog">DC Tech Lady News</a></h1>
 <p><strong>On tech ladies, DC tech, & training opportunities. <a href="/newsletter">Subscribe here.</a></strong><br/>
   <em>This blog has been many things over the years. Now, it has merged with my Tech Lady Hackathon newsletter.</em></p>
 
 <ul class="posts">
-{% for page in site.posts %}
+{% for page in site.posts limit:5 %}
   <li class="post">
     <div class="row">
         <div class="col-sm-9">

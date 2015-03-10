@@ -16,4 +16,4 @@ categories:
 1. Once you've finished an MVP (getting there might take a few sprints), work with your community partner to set up a round of ux testing. 
 1. Add any necessary changes based on ux testing to the backlog as user stories.
 1. Repeat last 3 steps until you have a slightly more refined MVP. Invite community partners and any other stakeholders (possibly in government) to your next brigade meetup and demo to your brigade (so we can cheer for you). 
-1. Repeat last 3 steps until you can't OR won't continue to sustain the product.
+1. Repeat last 3 steps until you can't or won't continue to sustain the product.
